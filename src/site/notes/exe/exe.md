@@ -4,50 +4,53 @@
 
 *Here for all the apps and games (use ctrl+f to search for a specific game) sorted alphabetically*
 
-# A
 
-# B
+# Games & Apps:
 
-# C
+## A
 
-# D
+## B
 
-# E
+## C
 
-# F
+## D
 
-# H
+## E
 
-# I
+## F
 
-# J
+## H
 
-# K
+## I
 
-# L
+## J
 
-# M
+## K
 
-# N
+## L
 
-# O
+## M
 
-# P
+## N
 
-# Q
+## O
 
-# R
+## P
 
-# S
+## Q
 
-# U
+## R
 
-# V
+## S
 
-# W
+## U
 
-# X
+## V
 
-# Y
+## W
 
-# Z
+## X
+
+## Y
+
+## Z
