@@ -3,8 +3,10 @@
 ---
 
 
+*Submit requests on this email: foxtailoromis@gmail.com*
+
 # Archive:
-## [[exe/exe\|.exe]]:
+## [[exe\|.exe]]:
 Cracked apps, games etc.
 ## [[pdf\|.pdf, .epub .mobi etc.]]:
 PDFs, ebooks and other text based files
